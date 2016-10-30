@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxJavaDemo</string>
+    <string name="open_album">打开相册</string>
+</resources>
